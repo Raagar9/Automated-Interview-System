@@ -1,0 +1,3 @@
+C:/CollegeStuff/TY/AI/CP/build/CMakeFiles/CP.dir
+C:/CollegeStuff/TY/AI/CP/build/CMakeFiles/edit_cache.dir
+C:/CollegeStuff/TY/AI/CP/build/CMakeFiles/rebuild_cache.dir

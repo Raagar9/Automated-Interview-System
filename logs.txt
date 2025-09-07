@@ -1,0 +1,258 @@
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ My name is Anish Deshmuk.
+
+Press Enter to continue...
+
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ I love data science as a subject.
+ .
+
+Press Enter to continue...
+
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# g++ sample.cpp -I"C:/clib/eigen-3.4.0" -o sample.exe
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# g++ sample.cpp -I"C:/clib/eigen-3.4.0" -o sample.exe
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ My favorite subject is data science.
+
+Best Response: Artificial Intelligence is my favourite subject.
+Press Enter to continue...
+
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# g++ sample.cpp -I"C:/clib/eigen-3.4.0" -o sample.exe
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ Artificial Intelligence favorite.
+
+Best Response:
+Your answer is incorrect. Expected: Artificial Intelligence is my favourite subject.
+Press Enter to continue...
+
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# g++ sample.cpp -I"C:/clib/eigen-3.4.0" -o sample.exe
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ artificial intelligence favourite.
+
+Best Response:
+Cosine Similarity Score: -1
+Press Enter to continue...
+
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# g++ sample.cpp -I"C:/clib/eigen-3.4.0" -o sample.exe
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ artificial intelligence favourite.
+
+Best Response:
+Cosine Similarity Score: -1
+Press Enter to continue...
+
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# g++ sample.cpp -I"C:/clib/eigen-3.4.0" -o sample.exe
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ Artificial Intelligence favorite.
+
+Best Response: Artificial Intelligence is my favourite subject.
+Cosine Similarity Score: 0.57735
+Response Evaluation Rating: 0
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ Artificial Intelligence favorite.
+
+Best Response: Artificial Intelligence is my favourite subject.
+Cosine Similarity Score: 0.57735
+Response Evaluation Rating: 0
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# g++ sample.cpp -I"C:/clib/eigen-3.4.0" -o sample.exe
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ Hello, hello, hello, hello.
+
+Best Response: Artificial Intelligence is my favourite subject.
+Cosine Similarity Score: 0
+Response Evaluation Rating: 0
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# g++ record_audio.cpp -o record_audio -L"C:/Program Files (x86)/portaudio/lib" -lportaudio -I"C:/Program Files (x86)/portaudio/include"
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# g++ sample.cpp -I"C:/clib/eigen-3.4.0" -o sample.exe
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ Hello, hello, hello, hello.
+
+Best Response: Artificial Intelligence is my favourite subject.
+Cosine Similarity Score: 0
+Response Evaluation Rating: 0
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# g++ sample.cpp -I"C:/clib/eigen-3.4.0" -o sample.exe
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ Hello, hello, hello, hello.
+
+Best Response: Artificial Intelligence is my favourite subject.
+Cosine Similarity Score: 0
+Response Evaluation Rating: 0
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ Hello, hello, hello, hello.
+
+Best Response: Artificial Intelligence is my favourite subject.
+Cosine Similarity Score: 0
+Response Evaluation Rating: 0
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# g++ record_audio.cpp -o record_audio -L"C:/Program Files (x86)/portaudio/lib" -lportaudio -I"C:/Program Files (x86)/portaudio/include"
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ I love artificial intelligence. It is one of my most favorite subjects. I can't stop studying it.
+ I wish I had more time to study it.
+
+Best Response: Artificial Intelligence is my favourite subject.
+Cosine Similarity Score: 0.57735
+Response Evaluation Rating: 0.845154
+
+anees@WIN-10R9HNAQOEB MINGW64 /c/CollegeStuff/TY/AI/CP
+# ./sample
+Question: What is your favourite subject?
+Executing recording batch file...
+Press any key to continue . . .
+Recording batch file executed successfully.
+Executing whisper batch file...
+Press any key to continue . . .
+Whisper batch file executed successfully.
+Extracted Text:
+ My name is Anish Deshmuk. I am currently in my third year of engineering, Bachelor of
+ Technology. I am studying Artificial Intelligence.
+
+Best Response: Artificial Intelligence is my favourite subject.
+Cosine Similarity Score: 0.707107
+Response Evaluation Rating: 0.252538

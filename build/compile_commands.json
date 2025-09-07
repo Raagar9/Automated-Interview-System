@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/CollegeStuff/TY/AI/CP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++14 -o CMakeFiles\\CP.dir\\test_portaudio.cpp.obj -c C:\\CollegeStuff\\TY\\AI\\CP\\test_portaudio.cpp",
+  "file": "C:/CollegeStuff/TY/AI/CP/test_portaudio.cpp",
+  "output": "CMakeFiles/CP.dir/test_portaudio.cpp.obj"
+}
+]

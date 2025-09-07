@@ -1,0 +1,3 @@
+@echo off
+echo Dummy running Whisper...
+pause
